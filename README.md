@@ -13,4 +13,10 @@ sudo nano /etc/nixos/configuration.nix
 # to push changes
 sudo nixos-rebuild switch
 
+# find updates
+nix-channel --update
+
+# install updates
+sudo nixos-rebuild switch --upgrade
+
 
