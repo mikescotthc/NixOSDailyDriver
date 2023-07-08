@@ -107,6 +107,33 @@
       qdirstat
       libreoffice
       qbittorrent
+      steam
+      audacity
+      ksnip
+      htop
+      vlc
+      timeshift
+      caffeine-ng
+      etcher
+      fluent-reader
+      ulauncher
+      flameshot
+      clamav
+      font-manager
+      ddh
+      pinta
+      copyq
+      anbox
+      filezilla
+      conky
+      taskwarrior
+      tlp
+      bitwarden
+      minder
+      syncthing
+      corectrl
+      copyq
+
     #  thunderbird
     ];
   };
