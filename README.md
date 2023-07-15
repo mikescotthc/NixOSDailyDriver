@@ -19,4 +19,7 @@ nix-channel --update
 # install updates
 sudo nixos-rebuild switch --upgrade
 
+# delete old packages etc
+nix-collect-garbage
+nix-collect-garbage -d
 
